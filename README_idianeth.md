@@ -70,6 +70,8 @@ migrations
 ![imagen 1](img/img1.jpeg)
 ![imagen 2](img/img2.jpeg)
 ![imagen 3](img/img3.jpeg)
+![imagen 4](img/img4.jpeg)
+![imagen 5](img/img5.jpeg)
 
 ## Errores y soluciones
 Error "Specified key was too long"
@@ -85,6 +87,8 @@ Solución: Se instaló Node.js correctamente y se reinició la terminal.
 
 Error de que tuve que forzar el PHP
 Solucion: set PATH=C:\wamp64\bin\php\php8.2.29;%PATH%
+Error de bloqueo
+Solucion: Set-ExecutionPolicy RemoteSigned
 
 ## Referencias
 https://laravel.com/docs
